@@ -1,0 +1,65 @@
+F:\camon\diplom\diplom\bin\Debug\diplom.exe.config
+F:\camon\diplom\diplom\bin\Debug\diplom.exe
+F:\camon\diplom\diplom\bin\Debug\diplom.pdb
+F:\camon\diplom\diplom\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\camon\diplom\diplom\obj\Debug\diplom.Form1.resources
+F:\camon\diplom\diplom\obj\Debug\diplom.Properties.Resources.resources
+F:\camon\diplom\diplom\obj\Debug\diplom.csproj.GenerateResource.Cache
+F:\camon\diplom\diplom\obj\Debug\diplom.exe
+F:\camon\diplom\diplom\obj\Debug\diplom.pdb
+C:\Users\nobatgeldiyewar\Desktop\123\diplom\diplom\bin\Debug\diplom.exe.config
+C:\Users\nobatgeldiyewar\Desktop\123\diplom\diplom\obj\Debug\diplom.exe
+C:\Users\nobatgeldiyewar\Desktop\123\diplom\diplom\obj\Debug\diplom.pdb
+\\10.10.10.10\03. Okuw bölüm\UMUMY\123\diplom\diplom\bin\Debug\diplom.exe.config
+\\10.10.10.10\03. Okuw bölüm\UMUMY\123\diplom\diplom\obj\Debug\diplom.exe
+\\10.10.10.10\03. Okuw bölüm\UMUMY\123\diplom\diplom\obj\Debug\diplom.pdb
+\\10.10.10.10\03. Okuw bölüm\UMUMY\123\diplom\diplom\bin\Debug\diplom.exe
+\\10.10.10.10\03. Okuw bölüm\UMUMY\123\diplom\diplom\bin\Debug\diplom.pdb
+\\10.10.10.10\03. Okuw bölüm\UMUMY\123\diplom\diplom\obj\Debug\diplom.csprojResolveAssemblyReference.cache
+\\10.10.10.10\03. Okuw bölüm\UMUMY\123\diplom\diplom\obj\Debug\diplom.Form1.resources
+\\10.10.10.10\03. Okuw bölüm\UMUMY\123\diplom\diplom\obj\Debug\diplom.Properties.Resources.resources
+\\10.10.10.10\03. Okuw bölüm\UMUMY\123\diplom\diplom\obj\Debug\diplom.csproj.GenerateResource.Cache
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\diplom.exe.config
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\diplom.exe
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\diplom.pdb
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\Google.Protobuf.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\K4os.Compression.LZ4.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\K4os.Hash.xxHash.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\MySql.Data.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Buffers.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.IO.Pipelines.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Memory.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Numerics.Vectors.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\ZstdSharp.dll
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\Google.Protobuf.pdb
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\Google.Protobuf.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\K4os.Compression.LZ4.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\K4os.Hash.xxHash.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\MySql.Data.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Buffers.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.IO.Pipelines.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Memory.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Numerics.Vectors.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Taslama\Onki\diplom, sms\diplom\diplom\obj\Debug\diplom.csproj.AssemblyReference.cache
+D:\Taslama\Onki\diplom, sms\diplom\diplom\obj\Debug\diplom.csproj.SuggestedBindingRedirects.cache
+D:\Taslama\Onki\diplom, sms\diplom\diplom\obj\Debug\diplom.exe.config
+D:\Taslama\Onki\diplom, sms\diplom\diplom\obj\Debug\diplom.Form1.resources
+D:\Taslama\Onki\diplom, sms\diplom\diplom\obj\Debug\diplom.Properties.Resources.resources
+D:\Taslama\Onki\diplom, sms\diplom\diplom\obj\Debug\diplom.csproj.GenerateResource.cache
+D:\Taslama\Onki\diplom, sms\diplom\diplom\obj\Debug\diplom.csproj.CoreCompileInputs.cache
+D:\Taslama\Onki\diplom, sms\diplom\diplom\obj\Debug\diplom.csproj.CopyComplete
+D:\Taslama\Onki\diplom, sms\diplom\diplom\obj\Debug\diplom.exe
+D:\Taslama\Onki\diplom, sms\diplom\diplom\obj\Debug\diplom.pdb
