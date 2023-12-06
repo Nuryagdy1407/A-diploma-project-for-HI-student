@@ -1,0 +1,40 @@
+F:\camon\Projelerim\sms-iber_proje\sms\sms\bin\Debug\sms.exe.config
+F:\camon\Projelerim\sms-iber_proje\sms\sms\bin\Debug\sms.exe
+F:\camon\Projelerim\sms-iber_proje\sms\sms\bin\Debug\sms.pdb
+F:\camon\Projelerim\sms-iber_proje\sms\sms\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\camon\Projelerim\sms-iber_proje\sms\sms\bin\Debug\GSMCommServer.dll
+F:\camon\Projelerim\sms-iber_proje\sms\sms\bin\Debug\GSMCommShared.dll
+F:\camon\Projelerim\sms-iber_proje\sms\sms\bin\Debug\GSMCommunication.dll
+F:\camon\Projelerim\sms-iber_proje\sms\sms\bin\Debug\Guna.UI.dll
+F:\camon\Projelerim\sms-iber_proje\sms\sms\bin\Debug\Guna.UI2.dll
+F:\camon\Projelerim\sms-iber_proje\sms\sms\bin\Debug\MetroFramework.dll
+F:\camon\Projelerim\sms-iber_proje\sms\sms\bin\Debug\PDUConverter.dll
+F:\camon\Projelerim\sms-iber_proje\sms\sms\bin\Debug\XanderUI.dll
+F:\camon\Projelerim\sms-iber_proje\sms\sms\obj\Debug\sms.baglan.resources
+F:\camon\Projelerim\sms-iber_proje\sms\sms\obj\Debug\sms.full.resources
+F:\camon\Projelerim\sms-iber_proje\sms\sms\obj\Debug\sms.full_2.resources
+F:\camon\Projelerim\sms-iber_proje\sms\sms\obj\Debug\sms.Properties.Resources.resources
+F:\camon\Projelerim\sms-iber_proje\sms\sms\obj\Debug\sms.sms.resources
+F:\camon\Projelerim\sms-iber_proje\sms\sms\obj\Debug\sms.csproj.GenerateResource.Cache
+F:\camon\Projelerim\sms-iber_proje\sms\sms\obj\Debug\sms.exe
+F:\camon\Projelerim\sms-iber_proje\sms\sms\obj\Debug\sms.pdb
+F:\camon\Projelerim\sms-iber_proje\sms\sms\obj\Debug\sms.csprojResolveAssemblyReference.cache
+C:\Users\Public\Desktop\Activation\sms\sms\bin\Debug\sms.exe.config
+C:\Users\Public\Desktop\Activation\sms\sms\obj\Debug\sms.exe
+C:\Users\Public\Desktop\Activation\sms\sms\obj\Debug\sms.pdb
+C:\Users\TKM\Desktop\-\Activation\sms\sms\bin\Debug\sms.exe.config
+C:\Users\TKM\Desktop\-\Activation\sms\sms\obj\Debug\sms.exe
+C:\Users\TKM\Desktop\-\Activation\sms\sms\obj\Debug\sms.pdb
+C:\Users\TKM\Desktop\-\Activation\sms\sms\bin\Debug\sms.exe
+C:\Users\TKM\Desktop\-\Activation\sms\sms\bin\Debug\sms.pdb
+C:\Users\TKM\Desktop\-\Activation\sms\sms\obj\Debug\sms.baglan.resources
+C:\Users\TKM\Desktop\-\Activation\sms\sms\obj\Debug\sms.full.resources
+C:\Users\TKM\Desktop\-\Activation\sms\sms\obj\Debug\sms.full_2.resources
+C:\Users\TKM\Desktop\-\Activation\sms\sms\obj\Debug\sms.Properties.Resources.resources
+C:\Users\TKM\Desktop\-\Activation\sms\sms\obj\Debug\sms.sms.resources
+C:\Users\TKM\Desktop\-\Activation\sms\sms\obj\Debug\sms.csproj.GenerateResource.Cache
+C:\Users\TKM\Desktop\-\Activation\sms\sms\obj\Debug\sms.csprojResolveAssemblyReference.cache
+\\10.10.10.10\03. Okuw bölüm\UMUMY\123\sms\sms\bin\Debug\sms.exe.config
+\\10.10.10.10\03. Okuw bölüm\UMUMY\123\sms\sms\obj\Debug\sms.exe
+C:\Users\Elon Musk\Desktop\Taslama\diplom, sms\sms\sms\bin\Debug\sms.exe.config
+C:\Users\Elon Musk\Desktop\Taslama\diplom, sms\sms\sms\obj\Debug\sms.exe
