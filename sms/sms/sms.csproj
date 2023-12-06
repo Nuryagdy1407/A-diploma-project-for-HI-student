@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{24EDD985-C71A-48C3-973C-DC7590646430}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>sms</RootNamespace>
+    <AssemblyName>sms</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\HM\HM\bin\Debug\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommServer">
+      <HintPath>..\..\..\Downloads\GSMModem\GSMModem\GSMModem\bin\Debug\GSMCommServer.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommShared">
+      <HintPath>..\..\..\Downloads\GSMModem\GSMModem\GSMModem\bin\Debug\GSMCommShared.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommunication">
+      <HintPath>..\..\..\Downloads\GSMModem\GSMModem\GSMModem\bin\Debug\GSMCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>C:\Users\CAMON\Documents\Visual Studio 2015\Projects\HMU1 - Copy\HMU1\bin\Debug\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\..\HM\HM\bin\Debug\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>C:\Users\CAMON\Documents\Visual Studio 2015\Projects\HMU1\HMU1\bin\Debug\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MySQL\MySQL Connector Net 6.8.3\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PDUConverter">
+      <HintPath>..\..\..\Downloads\GSMModem\GSMModem\GSMModem\bin\Debug\PDUConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="XanderUI">
+      <HintPath>..\..\..\2_DLL\XanderUI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="baglan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="baglan.Designer.cs">
+      <DependentUpon>baglan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="baglanmysql.cs" />
+    <Compile Include="full.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="full.Designer.cs">
+      <DependentUpon>full.cs</DependentUpon>
+    </Compile>
+    <Compile Include="full_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="full_2.Designer.cs">
+      <DependentUpon>full_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="sms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sms.Designer.cs">
+      <DependentUpon>sms.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="baglan.resx">
+      <DependentUpon>baglan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="full.resx">
+      <DependentUpon>full.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="full_2.resx">
+      <DependentUpon>full_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sms.resx">
+      <DependentUpon>sms.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\30x-Closed-Mail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\okuwcy %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kart_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\real-estate-search-building.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\real-estate-search-house-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\30x-Monitor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alert-message-laptop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar-date.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar-upload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\30x-Go-Light.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\edit_200_transparent.gif" />
+    <None Include="Resources\shared_mail_96px.png" />
+    <None Include="Resources\usb_connected_96px.png" />
+    <None Include="Resources\usb_disconnected_96px.png" />
+    <None Include="Resources\online_200_transparent.gif" />
+    <None Include="Resources\horizontal_line_30px.png" />
+    <None Include="Resources\horizontal_line_32px.png" />
+    <None Include="Resources\horizontal_line_80px.png" />
+    <None Include="Resources\vertical_line_80px.png" />
+    <None Include="Resources\search_client_24px.png" />
+    <None Include="Resources\message_preview_50px.png" />
+    <None Include="Resources\single-man-focus.png" />
+    <None Include="Resources\single-man-actions-monitor.png" />
+    <None Include="Resources\sss_2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
